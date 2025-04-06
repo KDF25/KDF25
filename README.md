@@ -22,8 +22,8 @@ Hi there! I'm a Fullstack Developer specializing in **Frontend development** wit
 - Component-based architecture and state management
 
 ### 🖥 Backend
-- **NestJS**, **FastAPI**
-- REST APIs, WebSockets
+- **Node.js**, **Express**, **NestJS**, **FastAPI**
+- REST APIs, WebSockets, GraphQL
 - PostgreSQL, MongoDB, SQLite
 - CI/CD and performance optimization
 
