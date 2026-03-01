@@ -1,4 +1,4 @@
-# Fullstack / Frontend Developer
+# Fullstack & Frontend Developer | AI & Automation Specialist
 
 I am a Software Developer with proven expertise in building complex, real-time web platforms that seamlessly integrate frontend, backend, and AI-powered automation. I specialize in React and TypeScript, implementing scalable architectures (FSD) and maintainable, type-safe code. Beyond frontend, I design automation pipelines, intelligent voice interfaces, and secure digital workflows, enabling platforms to deliver high-performance, fully synchronized user experiences. I solve challenging technical problems with precision and bring ideas from concept to production efficiently.
 
